@@ -1,0 +1,34 @@
+th{
+    background: goldenrod;
+    color: mediumvioletred;
+    width: 200px;
+}
+tr :last-child{
+    text-align: center; 
+    width: 500px;
+}
+tr :first-child{
+    width: 300px;
+}
+#ol{
+    height: 170px;
+    overflow: auto;
+}
+
+.w50{
+    width: 50%;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.brd{
+    border: 1px solid darkblue;
+
+}
+.t2r{
+    overflow: auto;
+    height: 170px;
+}

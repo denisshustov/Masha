@@ -1,0 +1,47 @@
+.conteinir{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg,red,orange,yellow,green,aqua,blue,violet);
+    position: fixed;
+}
+.skvere1{    
+    height: 240px;
+    width: 240px;
+    background-color: deeppink;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+.skvere2{
+    height:240px;
+    width: 240px;
+    background-color: goldenrod;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+.skvere3{
+    height: 240px;
+    width: 240px;
+    background-color: yellowgreen;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.skvere4{
+    height: 240px;
+    width: 240px;
+    background-color: crimson;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+.corcle{
+    height: 240px;
+    width: 240px;
+    background-color: darkblue;
+    position: absolute;
+    border-radius:142px ;
+    bottom: 270px;
+    right: 660px;
+}

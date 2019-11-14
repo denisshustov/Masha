@@ -1,0 +1,53 @@
+#container{
+    padding: 50px;
+}
+.title{
+    color: gray;
+}
+.q1class{
+    padding: 15px 0px 0px 0px;
+}
+#q1{
+    width: 654px;
+    
+}
+#htmlLogo{
+    width: 100px;
+}
+#pythonLogo{
+    width: 100px;
+}
+#q2{
+    width: 650px;
+    
+}
+#q3{
+    width: 650px;
+    
+}
+#q4{
+    width: 650px;
+    
+}
+#q5{
+    width: 650px;
+}
+#lq1{
+    
+    text-decoration: none;
+}
+#lq2{
+    
+    text-decoration:line-through ;
+}
+#lq3{
+   
+    text-decoration: none;
+}#lq4{
+    
+    text-decoration: overline;
+}
+#lq5{
+   
+    text-decoration: underline;
+}

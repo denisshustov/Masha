@@ -1,0 +1,6 @@
+print('ведите первое чесло')
+s=input()
+print('вдите второе чесло')
+g=input()
+t=int(s)+int(g)
+print(t)
