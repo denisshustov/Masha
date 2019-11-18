@@ -1,0 +1,23 @@
+.textConteinir{
+    width: 1000px;
+    height: 500px;
+    background-color: #eee;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 21px;
+}
+.text{
+    float: left;
+    padding-left: 20px;
+}
+.img{
+    
+    float: right;
+    padding-right: 20px;
+}
+.actionConteiner{
+    margin-right: auto;
+    margin-left: auto;
+    left: 957px;
+    width: 400px;
+}

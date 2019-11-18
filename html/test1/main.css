@@ -1,0 +1,40 @@
+.whot{
+	right: 0px;
+	bottom: 564px;
+	position: fixed;
+	color: red;
+}
+.spisk{
+	color: blue;
+}
+.der{
+	color: red;
+}
+.sorc1{
+	border-radius: 50%;
+	background-color:green;
+	height: 90px;
+	width: 90px;
+}
+.sorc2{
+	background-color: yellow;
+	height: 90px;
+	width: 90px;
+
+	border-radius: 50%;
+	
+}
+.sorc3{
+	background-color: red;
+	height: 90px;
+	width: 90px;
+
+	border-radius: 50%;
+	
+  
+}
+.sorkol{
+	border: solid aquamarine 5px;
+	width: 91px;
+	height: 268px;
+}
