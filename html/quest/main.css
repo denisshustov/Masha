@@ -9,15 +9,43 @@
 .text{
     float: left;
     padding-left: 20px;
+    width: 500px;
+    border: 8px solid chocolate;
+    padding: 7px 5px 3px 17px;
+    border-radius: 26px;
 }
-.img{
-    
+.imgContainer{
     float: right;
     padding-right: 20px;
+
+}
+img{
+    width: 319px;
 }
 .actionConteiner{
     margin-right: auto;
     margin-left: auto;
     left: 957px;
     width: 400px;
+}
+
+ul{
+    border: 1px solid darkorchid;
+    border-radius: 5px;
+    list-style-type: none;
+    padding: 0px;
+}
+li{
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 6px;
+}
+li:hover{
+    background-color: rgb(185, 185, 139);
+    cursor:pointer;
+}
+#tre{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
 }
