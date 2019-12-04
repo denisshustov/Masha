@@ -1,0 +1,24 @@
+li{
+	display: -webkit-box;
+	padding: 30px;
+	border: 1px ridge red;
+}
+nav{
+	text-align: center;
+	background-color: yellow;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	border: 400px;
+	width: 500px;
+}
+a{
+	text-decoration: none;
+	font-size: 50px;
+	color: pink;
+}
+.i{
+	position: absolute;
+    left: 503px;
+}
