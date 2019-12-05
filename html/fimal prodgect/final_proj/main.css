@@ -22,3 +22,28 @@ a{
 	position: absolute;
     left: 503px;
 }
+.img{
+	height: 359px;
+    width: 606px;
+    position: absolute;
+    bottom: 13px;
+    left: 767px;
+}
+.imj{
+	left: 897px;
+    position: absolute;
+    bottom: 0px;
+    height: 272px;
+}
+.imn{
+	left: 897px;
+    position: absolute;
+    bottom: 0px;
+    height: 272px;
+}
+.imm{
+	left: 580px;
+    position: absolute;
+    bottom: 5px;
+    height: 490px;
+}
