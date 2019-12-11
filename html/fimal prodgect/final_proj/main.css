@@ -47,3 +47,23 @@ a{
     bottom: 5px;
     height: 490px;
 }
+#zima{
+	background-image:url('images/fs.gif');
+	background-size:cover;
+}
+#osii{
+	background-image: url('images/fll.gif');
+	background-size: cover;
+}
+#bisn{
+	background-image: url('images/l.gif');
+	background-size: cover;
+}
+.hoo{
+
+background-image: url('images/f.gif');
+	background-size: cover;
+}
+body :hover{
+	background-color: chartreuse;
+}
