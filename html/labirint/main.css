@@ -1,0 +1,11 @@
+table{
+    border: 1px solid firebrick;
+}
+td{
+    width: 70px;
+    height: 60px;
+    border: 1px solid rebeccapurple;
+}
+td:hover{
+    background-color:red;
+}
