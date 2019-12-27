@@ -1,0 +1,76 @@
+.mainTable{
+    border: 1px solid red;
+    width: 558px;
+    font-size: 41px;
+    border-spacing: unset;
+}
+td{
+    border-bottom: 1px solid red;
+}
+.hastr{
+    background: red;
+}
+th{
+    text-align: inherit;
+    color: snow;
+}
+tr:nth-child(even){
+background: antiquewhite;
+}
+.bot1{
+    border: 5px solid black;
+    width: 240px;
+    height: 95px;
+}
+.in1bot{
+    width: 54px;
+    height: 95px;
+    background: red;
+
+}
+.in2bot{
+    width: 115px;
+    height: 95px;
+    background: yellow;
+}
+.bot2{
+        border: 5px solid black;
+        width: 240px;
+        height: 95px;
+}
+.bot3{
+    border: 5px solid black;
+    width: 240px;
+    height: 95px;
+    left: 48px;
+    top: 582px;
+}
+.in3bot{
+    width: 241px;
+    height: 95px;
+    background: green;
+    }
+tr td:not(:first-child) {
+    text-align: center;
+}
+.toble{
+    height: 60px;
+    right: 0px;
+    bottom: 0px;
+    border-spacing: unset;
+}
+.bac{
+    border: 3px solid black;
+    width: 180px;
+    text-align: center;
+    font-size: 41px;
+}
+.whi{
+    border: 8px solid black;
+    width: 180px;
+    text-align: center;
+    color: white;
+    background: black;
+    font-size: 41px;
+    border-spacing: 7px 11px;
+}
