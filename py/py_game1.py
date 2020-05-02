@@ -29,11 +29,7 @@ y = WIN_HEIGHT // 2  # выравнивание по центру по верт�
 
 running = True
 while running:
-    # Рендеринг
     screen.fill(BLACK)
-
-    # обновление экрана
-    pygame.display.update()
 
     clock.tick(FPS)
     # events содержит список событий
@@ -48,7 +44,7 @@ while running:
     # --------
     # pygame.draw.rect(screen, YELLOW, (20, 20, 100, 75),5)
     # pygame.draw.rect(screen, GREEN, r1,5)
-    pygame.draw.circle(screen, PINK, (x, y), r)
+    pygame.draw.circle(screen, YELLOW, (x, y), r)
     # если полностью скрылся за правой границей
     if x >= WIN_WIDTH + r:
         x = 0 - r
@@ -56,7 +52,10 @@ while running:
         x += 2  # в следующем кадре круг сместится,
         # от значения зависит "скорость движения"
 
-   
+
+    
+    # обновление экрана
+    pygame.display.update()
 
 
 pygame.quit()
